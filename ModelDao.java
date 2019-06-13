@@ -43,6 +43,7 @@ public class ModelDao {
 		// TODO Auto-generated method stub
 
 		Connection conn = null;
+		Connection conn2 = null;
 		PreparedStatement stmt = null;
 		ResultSet rs = null;
 
